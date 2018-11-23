@@ -1,2 +1,0 @@
-# FundPro
-Fundamentals Project
